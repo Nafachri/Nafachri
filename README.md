@@ -11,6 +11,7 @@
 - **Full Stack Developer** at [PT Solusi Cipta Integrasi](https://sciptaintegrasi.com/) (2021-2022)
 - **Full Stack Developer** at [Interaktiv Technology Pte Ltd](https://interaktiv.sg/) (2022-2024)
 - **iOS Developer** graduate from [Phincon Academy Indonesia](https://phinconacademy.com/home) (2024)
+- **Salesforce Developer** graduate from [ONE Indonesia]([https://phinconacademy.com/home](https://oneindonesia.id/)) (2025)
 
 ## Skills
 
