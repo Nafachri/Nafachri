@@ -12,6 +12,7 @@
 - **Full Stack Developer** at [Interaktiv Technology Pte Ltd](https://interaktiv.sg/) (2022-2024)
 - **iOS Developer** graduate from [Phincon Academy Indonesia](https://phinconacademy.com/home) (2024)
 - **Salesforce Developer** graduate from [ONE Indonesia](https://oneindonesia.id/) (2025)
+- **Salesforce Developer** at iForte Solusi Infotek [iForte Solusi Infotek](https://www.iforte.id/home) (2025-present)
 
 ## Skills
 
