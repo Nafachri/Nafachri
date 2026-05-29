@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🌱 I’m currently learning **Swift** to deepen my knowledge in iOS development.
+- 🌱 I’m currently learning **Salesforce** to deepen my knowledge in Salesforce Development.
 - 🇮🇩 My name is **Naufal Al Fachri**, based in **Jakarta, Indonesia**.
 
 ## Experience
@@ -20,6 +20,7 @@
 - **Full Stack JavaScript:** MERN Stack (MongoDB, Express, React, Node.js)
 - **API Integration & Management**
 - **SOLID Principles**
+- **Salesforce Development** Apex
 
 ## My Recent Project as an IOS Developer
 
